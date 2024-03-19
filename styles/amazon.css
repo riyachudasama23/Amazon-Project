@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+}
+
 .amazon-header {
   background-color: rgb(19, 25, 33);
   color: white;
@@ -22,6 +26,10 @@
 .amazon-logo {
   width: 100px;
   margin-top: 5px;
+}
+
+.main{
+  margin-top: 60px;
 }
 
 .products-grid{
